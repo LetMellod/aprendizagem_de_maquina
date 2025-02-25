@@ -1,2 +1,3 @@
 # aprendizagem_de_maquina
-atividades feitas em aula
+
+Atividades feitas em aula na matéria de Aprendizagem de Máquina.
