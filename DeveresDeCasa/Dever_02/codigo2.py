@@ -19,7 +19,4 @@ else :
   print(f"Frase em minúscula fica: {entrada}")
   tupla = tuple(listaPalavras)
   print(f"A tupla fica: {tupla}")
-
-
-
 print("fim da aplicação")
